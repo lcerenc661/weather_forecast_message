@@ -1,4 +1,4 @@
-TWILIO_ACCOUNT_SID ='ACc26ec40827fe2d139c4a729ad6bc0010'
-TWILIO_AUTH_TOKEN ='ad1d62b098a00bcc9a4735d562d00b09'
-PHONE_NUMBER ='+13613104693'
-API_KEY_WAPI = 'f3cf65ff7ae64bccad9210657220807'
+TWILIO_ACCOUNT_SID ='add twilio account sid'
+TWILIO_AUTH_TOKEN ='add twilio auth token'
+PHONE_NUMBER ='add twilio number'
+API_KEY_WAPI = 'add weatherAPI key'

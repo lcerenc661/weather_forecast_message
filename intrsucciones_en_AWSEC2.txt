@@ -1,0 +1,6 @@
+1. Copiar el repositorio a la instancia EC2, verificar que todos los datos de twilio se encuentren funcionando
+2. instalar los requerimientos con el comando "pip3 install -r requirements.txt"
+3. Configuramos el crontab para que ejecute el script todos los dias "crontab -e" e insertamos la siguiente linea(modificar el cron segun la hora espereda para la ejecución):
+
+    "10 18 * * * /usr/bin/python3 /home/ubuntu/weather_forecast_message/script.py >> /home/ubuntu/weather_forecast_message/script.log 2>&1"
+
