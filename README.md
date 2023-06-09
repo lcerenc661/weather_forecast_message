@@ -1,7 +1,7 @@
 
 # Daily weather forecast message
 
-Using weatherAPI, Twilio, Python and AWS EC2 instance to generate a daily sms with a weather forecast report.
+Using weatherAPI, Twilio, Python and a AWS EC2 instance to generate a daily sms with a weather forecast report.
 
 
 
